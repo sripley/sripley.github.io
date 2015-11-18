@@ -6,6 +6,8 @@ category: articles
 author: Stephen
 tags: [article, transit]
 priority: 0.8
+image:
+  feature: waiting-926533_1920.jpg
 ---
 
 Last Thursday, I was meeting a co-worker for dinner in the City. This was a business meeting so I couldn’t be late.
@@ -20,8 +22,7 @@ surge pricing again. The car was 3 minutes away and I began waiting: 1 minute, 2
 
 I looked up from my screen in exasperation mostly with myself but also with uber for being late. Lo and behold, as if the
 patron saint of San Francisco transit were smiling down upon me, 2 taxis were parked right in front of me. Without thinking
-I immediately cancelled the uber and climbed into the back of the taxi.
-
+I immediately cancelled the uber and climbed into the back of the taxi
 It had been over 2 years since I have taken a cab in San Francisco so the first question I asked was “Do you take
 credit cards?”. The driver replied that indeed he did causing me to notice some monitor/credit card processing hybrid
 thing in the back seat. He asked me, “where to” at which point I told him the destination and we were off.
